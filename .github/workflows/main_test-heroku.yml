@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'test-heroku'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A24313FDC3B84E9AA7D1B8CF17636BE7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CF86EB577D954BDE8F6D6CDBC2463325 }}
